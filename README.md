@@ -1,4 +1,4 @@
-# Social-Media-sentiment-analysus
+# Social-Media-sentiment-analysis
 
 ### Context
 
